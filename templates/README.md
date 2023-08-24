@@ -20,7 +20,7 @@ There are a few ways to quickly jumpstart your next project using one of the tem
 
    Each template also comes with explicit installation and setup instructions in the README.
 
-1. **Local development, via full repository clone**
+1. **Local development,via full repository clone**
 
    You may clone this entire repository and copy the desired subdirectory to your target location:
 
