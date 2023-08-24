@@ -37,7 +37,6 @@ There are a few ways to quickly jumpstart your next project using one of the tem
    ```
 
 ## Contributing
-
 Please ensure the `test` npm-script passes. Any formatting errors can typically be autofixed by running the `format` npm-script. This is enforced in CI for all pull requests.
 
 If adding a new template, please pick a unique name and aim for simplicity and clarity. Contributions that are meant for Workers must begin with the `worker-` prefix, while those meant for Pages must have the `pages-` prefix.
@@ -45,10 +44,8 @@ If adding a new template, please pick a unique name and aim for simplicity and c
 Also see [Monorepo Contributing Guidelines](../../CONTRIBUTING.md) for more information.
 
 ### Code of Conduct
-
 See [CODE OF CONDUCT](../../CODE_OF_CONDUCT.md) for details.
 
 ## License
-
 See [APACHE LICENSE](../../LICENSE-MIT) for details.
 See [MIT LICENSE](../../LICENSE-APACHE) for details.
